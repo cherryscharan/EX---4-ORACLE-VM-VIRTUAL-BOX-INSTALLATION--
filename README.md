@@ -1,7 +1,7 @@
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 
-## REG NO : 212223220084
-## NAME : RAMKUMAR G
+## REG NO : 212223220015
+## NAME : CHARAN KUMAR S
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 
@@ -340,7 +340,7 @@ find <directory> -name <file_name>
 
 **Output:**
 
-Register number : 212222100058
+Register number : 212223220015
 
 ![image](https://github.com/user-attachments/assets/1f1be76d-8a8c-4eb2-a77e-53a0f4924a25)
 ![image](https://github.com/user-attachments/assets/637ee69d-a4ff-4cf1-9f65-2d8095aed350)
